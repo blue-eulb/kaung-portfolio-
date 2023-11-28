@@ -167,7 +167,7 @@ footer p {
 footer > div:first-of-type{
     
     border-radius: 20px;
-    padding: 10px 60px 10px 50px;
+    padding: 10px 40px 10px 50px;
     color: white;
     background-color: rgb(226, 127, 127);
     position: fixed;
@@ -184,7 +184,7 @@ footer > div:hover {
     animation: none;
 }
 footer > div:not(:hover){
-    left: -475px;
+    left: -370px;
     opacity: .5;
     animation: giggle .5s ease infinite;
 }
